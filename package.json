@@ -1,0 +1,26 @@
+{
+  "name": "minicurso",
+  "version": "1.0.0",
+  "description": "uma api em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudsoncratz/minicurso.git"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "hudsoncratz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hudsoncratz/minicurso/issues"
+  },
+  "homepage": "https://github.com/hudsoncratz/minicurso#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
